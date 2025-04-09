@@ -1,0 +1,17 @@
+h1{
+    color:aquamarine;
+    text-align: center;
+    background-color: rgb(112, 226, 142);
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+.header{
+    background-color: crimson;
+    border: 2px solid greenyellow;
+    margin: 150px 50px 150px 50px;
+    padding:30px ;
+    background-image: url(https://ts2.mm.bing.net/th?id=OIP.B7DIIVmcuu98gq7gGQL9VQHaEY&pid=15.1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

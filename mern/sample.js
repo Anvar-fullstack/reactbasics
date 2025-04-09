@@ -1,0 +1,30 @@
+let person=[
+{
+    name:"john",
+    age:20,
+    place:{
+        city:"kochi",
+        country:"india";,
+    }
+},
+{
+    name:"ben",
+    age:22,
+    place:{
+        city:hyderabad,
+        country:"India",
+    
+    }
+},
+{
+    name:"easa",
+    age:20,
+    place:{
+        city:"perth",
+        country:"Australia",
+    }
+}
+];
+console.log(person[0].name);
+console.log(person[1].city.country);
+person[2].age=20;
